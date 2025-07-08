@@ -1,0 +1,43 @@
+body {
+    background-image: rgb(9, 119, 216);
+}
+#titulo {
+    color: brown;
+    text-align: center;
+}
+#paragrafo {
+    text-align: justify;
+    font-size: 20px;
+}
+#botao {
+    padding: 10px;
+    border-radius: 50px;
+}
+#mensagem {
+    color: chocolate;
+}
+#lista li {
+    padding: 8px;
+}
+#imagem {
+    width: 200px;
+    border-radius: 10%;
+}
+#tabela {
+    border: 2px solid black;
+    border-collapse: collapse;
+    background: linear-gradient(to left,rgba(248, 3, 3, 0.767), rgba(198, 193, 223, 0.568));
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+#tabela th,
+#tabela td {
+    border: 2px solid rgb(17, 17, 17);
+    padding: 10px;
+}
+img {
+    width: 150px;
+}
+#link:hover {
+    color: pink;
+}
